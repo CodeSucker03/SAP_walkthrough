@@ -1,0 +1,48 @@
+/* === SAPUI5 Utility Classes (Dummy for VSCode IntelliSense) === */
+
+/* Margins (all sides) */
+.sapUiTinyMargin {}
+.sapUiSmallMargin {}
+.sapUiMediumMargin {}
+.sapUiLargeMargin {}
+
+/* Margins (per side) */
+.sapUiTinyMarginBegin {}
+.sapUiTinyMarginEnd {}
+.sapUiTinyMarginTop {}
+.sapUiTinyMarginBottom {}
+
+.sapUiSmallMarginBegin {}
+.sapUiSmallMarginEnd {}
+.sapUiSmallMarginTop {}
+.sapUiSmallMarginBottom {}
+
+.sapUiMediumMarginBegin {}
+.sapUiMediumMarginEnd {}
+.sapUiMediumMarginTop {}
+.sapUiMediumMarginBottom {}
+
+.sapUiLargeMarginBegin {}
+.sapUiLargeMarginEnd {}
+.sapUiLargeMarginTop {}
+.sapUiLargeMarginBottom {}
+
+/* Padding (all sides) */
+.sapUiTinyPadding {}
+.sapUiSmallPadding {}
+.sapUiMediumPadding {}
+.sapUiLargePadding {}
+
+/* Text alignment */
+.sapUiAlignLeft {}
+.sapUiAlignRight {}
+.sapUiAlignCenter {}
+.sapUiAlignTop {}
+.sapUiAlignMiddle {}
+.sapUiAlignBottom {}
+
+/* Display helpers */
+.sapUiForceWidthAuto {}
+.sapUiForceWidth100 {}
+.sapUiHidden {}
+.sapUiVisible {}

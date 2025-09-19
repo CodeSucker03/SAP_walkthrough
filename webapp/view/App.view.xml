@@ -3,6 +3,7 @@
     xmlns="sap.m"
     xmlns:mvc="sap.ui.core.mvc"
     displayBlock="true">
+<!-- Load other views on request to the App view thorugh manifest.json -->
     <Shell>
         <App
             class="myAppDemoWT"

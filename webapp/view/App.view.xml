@@ -3,7 +3,10 @@
     xmlns="sap.m"
     xmlns:mvc="sap.ui.core.mvc"
     displayBlock="true">
-<!-- Load other views on request to the App view thorugh manifest.json -->
+<!--
+The router (configured in manifest.json) needs to know where to place views when a route matches.
+The <App id="app"/> in App.view.xml acts as a permanent placeholder.
+Without this, every view would have to re-render the whole page structure (Shell, App, etc.), which is inefficient. -->
     <Shell>
         <App
             class="myAppDemoWT"
